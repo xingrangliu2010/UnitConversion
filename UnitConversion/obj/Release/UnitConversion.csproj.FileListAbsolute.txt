@@ -1,0 +1,10 @@
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\bin\Release\UnitConversion.exe.config
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\bin\Release\UnitConversion.exe.manifest
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\bin\Release\UnitConversion.application
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\bin\Release\UnitConversion.exe
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\bin\Release\UnitConversion.pdb
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.csproj.CoreCompileInputs.cache
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.exe.manifest
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.application
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.exe
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.pdb
