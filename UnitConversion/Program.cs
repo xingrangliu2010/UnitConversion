@@ -134,7 +134,7 @@ namespace UnitConversion
                                     {
 
                                         //formular for this conversion 
-                                        intendedData = (1 / intendedUnitScaleRate) / (1 / currentUnitScaleRate) * currentData;
+                                        intendedData =  (1 / currentUnitScaleRate) * currentData/ (1 / intendedUnitScaleRate);
                                         outputFile.WriteLine(Math.Round(intendedData, 6).ToString() + " " + intendedUnit);
 
                                     }

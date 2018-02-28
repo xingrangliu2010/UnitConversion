@@ -8,3 +8,4 @@ D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitCon
 D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.application
 D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.exe
 D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.pdb
+D:\NewBrillianceTech\alcolizer\UnitConversion\UnitConversion\obj\Release\UnitConversion.csprojResolveAssemblyReference.cache
